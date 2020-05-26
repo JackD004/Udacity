@@ -1,7 +1,7 @@
 # Udacity Project - CryptoStar DAPP
 
-## Package version
-Truffle: v5.1.13
+## Package versions
+Truffle: v5.1.13 <br />
 OpenZeppelin: v2.4.0
 
 ## Token
